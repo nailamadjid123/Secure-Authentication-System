@@ -3,6 +3,8 @@ import os
 import time
 import re
 import random
+import sys
+
 
 PASSWORD_FILE = "password.txt"
 
